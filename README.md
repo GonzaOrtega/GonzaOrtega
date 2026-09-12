@@ -37,3 +37,11 @@ Reduced image upload and generation from ~30s to 12s, including cold start.
 **Cloud & Platform:** AWS Lambda · SQS · CDK · Vercel · Neon · Docker · GitHub Actions
 
 **Engineering:** Bun · Zod · Vitest · Playwright · Pino
+
+## How I Work
+
+I use spec-driven, AI-assisted development.
+
+My process is simple: define the problem clearly, review the implementation plan, watch for divergence from the spec, and verify the result with tests and real system behavior.
+
+I use AI to accelerate implementation — not to replace engineering judgment.
