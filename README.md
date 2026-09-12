@@ -29,3 +29,11 @@ The analysis led the client to act on outstanding receivables and commission a f
 Built and operate a production custom-commerce platform integrated with Tiendanube, coordinating image processing, product creation, checkout, signed webhooks and PostgreSQL state.
 
 Reduced image upload and generation from ~30s to 12s, including cold start.
+
+## Tech Stack
+
+**Core:** TypeScript · Node.js · Next.js · React · PostgreSQL
+
+**Cloud & Platform:** AWS Lambda · SQS · CDK · Vercel · Neon · Docker · GitHub Actions
+
+**Engineering:** Bun · Zod · Vitest · Playwright · Pino
