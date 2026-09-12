@@ -51,3 +51,9 @@ I use AI to accelerate implementation — not to replace engineering judgment.
 Before working independently, I spent six years at Espin Labs, progressing from Full-Stack Developer to Tech Lead.
 
 I worked across fintech and public-sector systems, including a national education census platform that ultimately reached ~680,000 participants, where I led implementation through handoff.
+
+## Contact
+
+I'm currently open to **senior backend, full-stack and technical-lead opportunities**, including remote roles from Argentina.
+
+[LinkedIn](https://linkedin.com/in/gonzalo-nahuel-ortega) · [Email](mailto:gonzalonortega@gmail.com)
