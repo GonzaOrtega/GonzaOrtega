@@ -20,16 +20,12 @@ Reusable AWS CDK governance layer with budgets, alarms, `cdk-nag`, tagging and l
 
 → [View infra-cdk](https://github.com/GonzaOrtega/infra-cdk)
 
-## Selected Work
+### Healthcare Operations Analytics
+Designed and built an analytics platform over ~102K healthcare appointments across four sites, covering data normalization, PostgreSQL pipelines, deterministic metric verification and dashboards.
 
-### Corpus
-Android-first language-learning product with a TypeScript backend, PostgreSQL, AWS Lambda, SQS and LLM enrichment.
+The analysis led the client to act on outstanding receivables and commission a follow-on billing automation system.
 
-Its public release platform includes consent management, transactional email, privacy retention, automated testing and a controlled production release workflow.
+### Quiero Case
+Built and operate a production custom-commerce platform integrated with Tiendanube, coordinating image processing, product creation, checkout, signed webhooks and PostgreSQL state.
 
-→ [View Corpus release platform](https://github.com/GonzaOrtega/corpus-landing)
-
-### AWS Infrastructure
-Reusable AWS CDK governance layer with budgets, alarms, `cdk-nag`, tagging and least-privilege GitHub Actions OIDC deployment roles.
-
-→ [View infra-cdk](https://github.com/GonzaOrtega/infra-cdk)
+Reduced image upload and generation from ~30s to 12s, including cold start.
