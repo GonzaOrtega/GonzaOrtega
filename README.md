@@ -45,3 +45,9 @@ I use spec-driven, AI-assisted development.
 My process is simple: define the problem clearly, review the implementation plan, watch for divergence from the spec, and verify the result with tests and real system behavior.
 
 I use AI to accelerate implementation — not to replace engineering judgment.
+
+## Earlier Work
+
+Before working independently, I spent six years at Espin Labs, progressing from Full-Stack Developer to Tech Lead.
+
+I worked across fintech and public-sector systems, including a national education census platform that ultimately reached ~680,000 participants, where I led implementation through handoff.
